@@ -1,0 +1,28 @@
+body {
+    background-color: #F4E6F5;
+    font-family: "Courier New", Courier, monospace;
+    text-transform: 200;
+}
+h1 {
+    color: #581845;
+    font-family: Impact, Charcoal, sans-serif;
+}
+h2 {
+    font-family: Impact, Charcoal, sans-serif;
+    text-transform: uppercase;
+    color: #900C3F;
+}
+hr {
+    border-top: 1px dashed;
+}
+a:hover{
+   background-color: #60BBE2; 
+   color: black;
+}
+a:visited{
+    color: #858687;
+}
+a{
+    color: black;
+    text-decoration: underline;
+}
